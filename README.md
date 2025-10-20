@@ -19,7 +19,7 @@ pip install torch==1.10.0+cu111 torchvision==0.11.0+cu111 torchaudio==0.10.0 -f 
 pip install timm==0.3.2
 pip install scipy
 pip install imgaug
-git clone git@github.com:wijayarobert/spatially-aware-counting.git
+git clone git@github.com:OpenTsubasa/DINOv2_Project.git
 ```
 
 ## Usage
